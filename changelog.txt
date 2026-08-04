@@ -1,0 +1,15 @@
+*** Changelog ***
+
+= 5.1.0   - 04.08.2026
+
+* New : EPC/SPC QR code implemented for Prepayment, Invoice, Invoice with payment guarantee, and Instalment by Invoice payments
+* New : Implemented Account Holder field for Direct Debit SEPA, Direct Debit SEPA with Payment Guarantee, and Instalment by Direct Debit SEPA, in compliance with Verification of Payee (VoP) regulations
+* Fix : Compatibility for Odoo 19.0 series
+* Fix : Plugin has been made compatible with the shop's default PayPal payment
+* Enhanced : iDEAL payment logo and title to iDEAL | Wero
+* Enhanced : Improved checkout payment form validation and optimized JavaScript to enhance iframe loading performance
+* Removed : Sofort, Giropay, Barzahlen/viacash and Payconiq payments
+
+= 5.0.0   - 29.08.2025
+
+* New Release: Payment module built with improved seamless customer experience and brand configurations in the Novalnet Merchant Admin Portal to make it easier to preview and customise the checkout page
