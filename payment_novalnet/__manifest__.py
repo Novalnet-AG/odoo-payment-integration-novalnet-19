@@ -3,6 +3,7 @@
 {
     'name': 'Payment Provider: Novalnet',
     'version': '5.1.0',
+    'author': 'Novalnet',
     'category': 'Accounting/Payment Providers',
     'sequence': 350,
     'summary': "A global payment service provider.",
